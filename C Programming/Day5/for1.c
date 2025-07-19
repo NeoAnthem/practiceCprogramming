@@ -1,3 +1,4 @@
+
 // 
 WAP to print first 10 natural numbers
 
