@@ -1,4 +1,5 @@
-// WAP to print first 10 natural numbers
+// 
+WAP to print first 10 natural numbers
 
 #include <stdio.h>
 
