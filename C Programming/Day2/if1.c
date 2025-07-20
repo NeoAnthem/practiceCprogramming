@@ -1,4 +1,4 @@
-//WAP to check whether a number is positive or negative.
+// WAP to check whether a number is positive or negative.
 
 #include <stdio.h>
 
