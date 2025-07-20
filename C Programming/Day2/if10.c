@@ -1,3 +1,4 @@
+
 // WAP to check whether the character is vowel or consonant
 // vowel -> a,e,i,o,u
 // input -. char -> 1
