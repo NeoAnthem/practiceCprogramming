@@ -30,3 +30,4 @@ int main()
         remBal = totalDueAmt - instAmt;
     }
 }
+
