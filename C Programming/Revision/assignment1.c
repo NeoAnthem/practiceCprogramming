@@ -24,10 +24,11 @@ int main()
 
     for (instNum = 1; instNum <= numOfMonths; instNum++)
     {
-        printf("%d\t\t\t\t\t%d\t\t\t\t\t%d\n", instNum, instAmt, remBal);
-
-        totalDueAmt -= instAmt;
+        
         remBal = totalDueAmt - instAmt;
+        printf("%d\t\t\t\t\t%d\t\t\t\t\t%d\n", instNum, instAmt, remBal);
+        totalDueAmt -= instAmt;
     }
 }
+
 
